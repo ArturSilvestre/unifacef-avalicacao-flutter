@@ -10,3 +10,8 @@ Para deletar todos os produtos basta clicar no botão do lado direito no canto s
 Para cadastrar um novo produto basta clicar no botão que se enconta no lado direito inferior que será redirecionado para a tela de cadastro do mesmo.
 Para Edição basta clicar em um produto que será redirecionado para a tela de Edição do mesmo.
 
+## Images do projeto
+
+![Tela Cadastro](https://github.com/ArturSilvestre/unifacef-avalicacao-flutter/blob/master/Captura%20de%20Tela%202020-11-12%20às%2022.23.46.png)
+![Deletando Produto](https://github.com/ArturSilvestre/unifacef-avalicacao-flutter/blob/master/Captura%20de%20Tela%202020-11-12%20às%2022.24.06.png)
+![Listando todos Produtos](https://github.com/ArturSilvestre/unifacef-avalicacao-flutter/blob/master/Captura%20de%20Tela%202020-11-12%20às%2022.23.33.png)
